@@ -10,14 +10,14 @@ This project focuses on epileptic seizure prediction tasks, utilizing the public
 - **Early Warning System**: Achieve reliable prediction 30 minutes before seizure onset
 - **Reproducible Benchmark**: Provide a standardized pipeline for epilepsy prediction research
 
-## 🔬 Research Background
+## 🔬 Experiment Design
 ### Challenges in Epilepsy Prediction
 - **Data Imbalance**: Interictal data significantly outnumbers preictal data
 - **Signal Complexity**: EEG signals contain substantial noise with significant individual variations
 - **Temporal Sensitivity**: Requires sufficient lead time for effective early warnings
 - **Channel Selection**: Different brain regions show varying sensitivity to epileptic activity
 
-### Dataset Information
+### Dataset that I SELECT 
 - **Data Source**: Publicly available EEG dataset from Boston Children's Hospital
 - **Number of Channels**: 6 bipolar channel candidates
 - **Time Period Definitions**:
