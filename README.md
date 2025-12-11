@@ -32,15 +32,17 @@ This project focuses on epileptic seizure prediction tasks, utilizing the public
 First test your environment setup using example UEA datasets:
 - Download from: [Timeseries Classification Website](https://timeseriesclassification.com/)
 - Run validation script:
- ```bash
- bash TimesNet.sh ```
+```Bash
+ bash TimesNet.sh
+ ```
 ### 2. Epilepsy Prediction Setup
 For the epilepsy prediction task:
 - Preprocessed data is available in the data directory
 - Currently showing only Subject 01 data
 - Run EEG-specific script:
--  ```bash
-bash TimesNet5.sh```
-- **Note**: The EEG prediction code is still under development and refinement.
+```Bash
+bash TimesNet5.sh
+```
+**Note**: The EEG prediction code is still under development and refinement.
 
-## Project Structure
+
