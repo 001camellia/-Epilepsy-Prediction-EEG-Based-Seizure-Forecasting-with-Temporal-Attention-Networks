@@ -43,6 +43,7 @@ For the epilepsy prediction task:
 ```Bash
 bash TimesNet5.sh
 ```
+remember to update the data file storage path in the configuration file to point to the correct location of your locally stored dataset. 
 **Note**: The EEG prediction code is still under development and refinement.
 
 
